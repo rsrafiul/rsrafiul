@@ -1,99 +1,122 @@
-## Hi there 👋
-
-<!-- CYBERPUNK GITHUB PROFILE README -->
+## Hi there ,Im Md Rafiul👋
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:00E5FF&height=220&section=header&text=MD%20RAFIUL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=16&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050510,30:111144,65:5B00A5,100:00D9FF&text=MD%20RAFIUL&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=00E5FF&strokeWidth=1" width="100%"/>
 
-<a href="https://github.com/rsrafiul">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=C%23+%26+C%2B%2B+Developer;Computer+Science+%26+Engineering+Student;Problem+Solver+%7C+Tech+Enthusiast;Turning+Ideas+Into+Code" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+C%23+%7C+HTML+%7C+CSS;Software+Developer+in+Progress;Computer+Science+%26+Engineering;Think+%7C+Code+%7C+Innovate" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-rsrafiul-181717?style=for-the-badge&logo=github)](https://github.com/rsrafiul)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rs.rafiul.257136)
+<img src="https://komarev.com/ghpvc/?username=rsrafiul&label=PROFILE%20VIEWS&color=6A00FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## `whoami`
+## `01 // ABOUT ME`
 
 ```cpp
 #include <iostream>
 using namespace std;
 
-int main() {
+class Developer {
+public:
     string name = "Md Rafiul";
     string role = "CSE Student & Developer";
-    string languages[] = {"C++", "C#"};
-    string mindset = "Think. Build. Improve.";
 
-    cout << "Hello, World! I'm " << name << endl;
-    cout << role << endl;
-    cout << mindset << endl;
+    string languages[4] = {
+        "C++", "C#", "HTML", "CSS"
+    };
 
+    void introduce() {
+        cout << "Welcome to my digital world!";
+    }
+};
+
+int main() {
+    Developer rafiul;
+    rafiul.introduce();
     return 0;
 }
 ```
 
-### 👨‍💻 About Me
-
-- 🎓 Computer Science & Engineering Student
-- 💻 Focused on **C++ and C# Development**
-- 🧠 Intermediate-level programmer
-- ⚡ Interested in software engineering and problem-solving
-- 🔍 Exploring new technologies and development concepts
-- 🚀 Always working to become a better developer
-
-> "Driven by logic. Defined by creativity."
+- 👨‍💻 Computer Science & Engineering Student
+- ⚡ C++ and C# focused developer
+- 🌐 Exploring HTML & CSS
+- 🧠 Intermediate programming skills
+- 🔍 Interested in software engineering and problem-solving
+- 🚀 Always learning, building and improving
 
 ---
 
-## ⚙️ Tech Arsenal
+## `02 // TECH STACK`
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,cs" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,html,css&theme=dark" />
 
-### Development Tools
+### Development Environment & Tools
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## `03 // LANGUAGE STATISTICS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rsrafiul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BD00FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrafiul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrafiul&layout=bar&langs_count=10&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=FFFFFF" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rsrafiul&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF" />
+<img width="85%" src="https://github-readme-stats.vercel.app/api?username=rsrafiul&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&icon_color=BD00FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=rsrafiul&theme=tokyonight&hide_border=true&background=050510&ring=00E5FF&fire=BD00FF&currStreakLabel=00E5FF" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## `04 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rsrafiul&bg_color=050510&color=00E5FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+## `05 // CONNECT WITH ME`
 
 <div align="center">
 
 <a href="https://github.com/rsrafiul">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/rs.rafiul.257136">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="48" alt="Facebook"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/rs_rafi_bro/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/KEvajEgkGY">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="48" alt="Discord"/>
+</a>
+
+<br/><br/>
+
+**GITHUB** &nbsp; | &nbsp; **FACEBOOK** &nbsp; | &nbsp; **INSTAGRAM** &nbsp; | &nbsp; **DISCORD**
 
 </div>
 
@@ -103,8 +126,16 @@ int main() {
 
 ### `SYSTEM STATUS: ONLINE`
 
-**Building the future, one line of code at a time.**
+```text
+[+] Developer       : Md Rafiul
+[+] Primary Focus   : C++ / C#
+[+] Web Technologies: HTML / CSS
+[+] Mindset         : Always Learning
+[+] Status          : Building The Future
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6A00F5,100:090014&height=120&section=footer"/>
+*"Driven by logic. Defined by creativity."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5B00A5,100:050510&height=120&section=footer" width="100%"/>
 
 </div>
